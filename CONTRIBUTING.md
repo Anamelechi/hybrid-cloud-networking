@@ -1,4 +1,3 @@
-### **2. CONTRIBUTING.md**
 # Contributing Guidelines
 
 ## 🛠 How to Contribute
