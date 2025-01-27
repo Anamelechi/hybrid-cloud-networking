@@ -1,5 +1,4 @@
 ### **2. CONTRIBUTING.md**
-```markdown
 # Contributing Guidelines
 
 ## 🛠 How to Contribute
