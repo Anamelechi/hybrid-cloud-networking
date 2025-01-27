@@ -91,7 +91,7 @@ traceroute <private-ip-of-aws-instance>
 ![VPC Flow Logs in S3](/docs/SCREENSHOTS/traceroute-1.png)
 
 ### 🤝 Contributing
-See CONTRIBUTING.md for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### 📜 License
 This project is licensed under the Apache License 2.0.
